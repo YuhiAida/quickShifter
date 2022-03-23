@@ -38,11 +38,11 @@
 
 ![Wiring everything into the bike](https://user-images.githubusercontent.com/21134775/159812168-cf98ead4-4eba-4f61-8879-420b01a68855.jpg)
 
-[Kawasaki Z400](https://www.youtube.com/watch?v=xHtklOINRBA)
+[Tested in Kawasaki Z400](https://www.youtube.com/watch?v=xHtklOINRBA)
 
 [Kawasaki Z400 Spiting flames](https://www.youtube.com/watch?v=g-vOS_BFNVc)
 
-[KTM Duke 390 NG](https://photos.app.goo.gl/w2ES6YKBYKDEgK4L9)
+[Tested in KTM Duke 390 NG](https://photos.app.goo.gl/w2ES6YKBYKDEgK4L9)
 
 
 # Based on [Quick Shifter Under $50! Kazeshifter Arduino Adjustable Quick Shifter](https://www.instructables.com/10-Quick-Shifter-Kazeshifter-Arduino-Adjustable-Qu/)
